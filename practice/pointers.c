@@ -11,6 +11,7 @@ int main (){
     int arr[5] = {1,2,3,4,5};
     int* pArr = arr;
     printf("%p\n",arr);
-    printf("%d",*arr);
+    printf("%d",arr[3]);
+    printf("%d",*(arr+3));
     return 0;
 }
