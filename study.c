@@ -40,8 +40,8 @@ int main() {
     // strcpy(y,temp);
     // printf("%s\n",x);
     // printf("%s",y);
-    if(0){
+
         printf("1");
-    }
+    
     return 0;
 }
